@@ -1,39 +1,44 @@
 html {
     background-color: #FFFFFF;
     box-sizing: border-box;
-    width: 110%;
-    height: 110%;
+    width: 100%;
+    height: 100%;
     overflow-x: hidden;
 }
 
 .container {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.container1 {
     font-family: "Sora", sans-serif;
     font-weight: 30pc;
     font-style: normal;
-    font-size: 16px;
+    font-size: 100%;
     line-height: 24px;
     color: #171717;
-    width: 500px;
-    padding: 25px;
+    width: 40%;
+    padding: 3.5%;
     overflow-x: hidden;
-    margin: 120px 20px;
+    margin: 8% 2%;
     background-color: #FFFFFF;
-    border-radius: 20px;
 }
 
 .titulo {
-    font-size: 2.25rem;
+    font-size: 200%;
 }
 
 .contenido1 {
-    font-size: 1.25rem;
+    font-size: 120%;
     line-height: 2;
 }
 
 .lista {
     list-style-image: url(./Done_ring_round_fill.svg);
     line-height: 3;
-    font-size: 14px;
+    font-size: 90%;
 }
 
 .icon {
@@ -42,70 +47,70 @@ html {
 }
 
 img {
-    width: 75px; 
+    width: 25%; 
     height: auto;
 }
 
 .container2 {
     position: absolute;
-    top: 0;
-    right: -40px;
-    width: 300px;
-    height: 130px;
+    top: 0%;
+    right: -4%;
+    width: 22%;
+    height: 22%;
     font-family: "Sora", sans-serif;
-    font-weight: 30pc;
+    font-weight: 100%;
     font-style: normal;
-    font-size: 16px;
+    font-size: 100%;
     line-height: 24px;
     color: #171717;
     background-color: white;
-    border-radius: 10px;
-    padding: 30px;
-    margin: 145px;
+    border-radius: 5%;
+    padding: 2%;
+    margin: 12%;
     box-shadow: 0px 10px 110px 20px rgba(0, 0, 0, 0.09);
 }
 
 .container3 {
     position: absolute;
-    top: 100px;
-    right: 40px;
-    width: 300px;
-    height: 150px;
+    top: 18%;
+    right: 4%;
+    width: 21%;
+    height: 22%;
     font-family: "Sora", sans-serif;
-    font-weight: 10pc;
+    font-weight: 100%;
     font-style: normal;
-    font-size: 16px;
+    font-size: 100%;
     line-height: 24px;
     color: #171717;
     background-color: white;
-    border-radius: 10px;
-    padding: 30px;
-    margin: 285px;
+    border-radius: 5%;
+    padding: 2%;
+    margin: 21%;
     box-shadow: 0px 25px 110px 30px rgba(0, 0, 0, 0.09);
 }
 
 .item1 {
-    width: 24px;
+    width: 8%;
     height: auto;
     margin-left: 15px;
 }
 
 .item2 {
-    width: 24px;
+    width: 8%;
     height: auto;
 }
 
 .item3 {
-    width: 24px;
+    width: 8%;
     height: auto;
 }
 
 .item4 {
-    width: 24px;
+    width: 8%;
     height: auto;
 }
 
 .item5 {
-    width: 24px;
+    width: 8%;
     height: auto;
 }
