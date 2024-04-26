@@ -1,0 +1,119 @@
+html {
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    width: 110%;
+    height: 110%;
+    overflow-x: hidden;
+}
+
+.container {
+    font-family: "Sora", sans-serif;
+    font-weight: 30pc;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #171717;
+    width: 500px;
+    padding: 25px;
+    overflow-x: hidden;
+    margin: 120px 20px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.titulo {
+    font-size: 2.25rem;
+}
+
+.contenido1 {
+    font-size: 1.25rem;
+    line-height: 2;
+}
+
+.lista {
+    list-style-image: url(./Done_ring_round_fill.svg);
+    line-height: 3;
+    font-size: 14px;
+}
+
+.icon {
+    color: #F5C044;
+    font-size: 3rem;
+}
+
+img {
+    width: 75px; 
+    height: auto;
+}
+
+.container2 {
+    position: absolute;
+    top: 0;
+    right: -40px;
+    width: 300px;
+    height: 130px;
+    font-family: "Sora", sans-serif;
+    font-weight: 30pc;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #171717;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 145px;
+    box-shadow: 0px 10px 110px 20px rgba(0, 0, 0, 0.09);
+}
+
+.container3 {
+    position: absolute;
+    top: 100px;
+    right: 40px;
+    width: 300px;
+    height: 150px;
+    font-family: "Sora", sans-serif;
+    font-weight: 10pc;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #171717;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 285px;
+    box-shadow: 0px 25px 110px 30px rgba(0, 0, 0, 0.09);
+}
+
+.item1 {
+    width: 24px;
+    height: auto;
+    margin-left: 15px;
+}
+
+.item2 {
+    width: 24px;
+    height: auto;
+}
+
+.item3 {
+    width: 24px;
+    height: auto;
+}
+
+.item4 {
+    width: 24px;
+    height: auto;
+}
+
+.item5 {
+    width: 24px;
+    height: auto;
+}
+
+
+.stars2 {
+    margin-left: 90px;
+    margin-top: -33px;
+    letter-spacing: 0px;
+}
+
